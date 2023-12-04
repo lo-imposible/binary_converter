@@ -1,2 +1,2 @@
-# binary_converter
-Converting binary numbers to decimal value
+## binary_converter
+Converts binary input (1-8) to decimal output using Python
